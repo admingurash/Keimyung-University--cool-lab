@@ -1,0 +1,5 @@
+{
+  "com_port": "COM14",
+  "baud_rate": 115200,
+  "last_connected_port": "COM14"
+}
