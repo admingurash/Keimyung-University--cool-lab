@@ -1,0 +1,13 @@
+[
+{
+  "timestamp": "2025-09-03T14:57:56.489891",
+  "roll_angle": 1.23,
+  "pitch_angle": -0.45,
+  "yaw_angle": 180.0,
+  "altitude": 100.5,
+  "roll_setpoint": 0.0,
+  "pitch_setpoint": 0.0,
+  "yaw_setpoint": 180.0,
+  "altitude_setpoint": 100.0
+}
+]
