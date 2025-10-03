@@ -79,7 +79,7 @@ python ground_station.py
 ```
 
 4. **Open your browser:**
-Navigate to `http://localhost:5001`
+Running on http://127.0.0.1:5001
 
 ## 🎮 Usage
 
